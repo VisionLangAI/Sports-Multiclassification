@@ -80,14 +80,4 @@ Qualitative explainability was performed using:
 - LIME
 - SHAP
 
-These methods provide qualitative plausibility evidence for model predictions. Quantitative XAI faithfulness checks such as insertion-deletion and randomization tests are recommended for future work.
-
-## Reproducibility Notes
-
-To reproduce the experiments, use the same random seed, stratified split protocol, preprocessing pipeline, model configuration, and training settings described above. Raw prediction files, split indices, and additional implementation details may be provided as supplementary material or upon reasonable request.
-
-## Citation
-
-If this work is used, please cite the associated manuscript:
-
-`A Novel Model based on Fusion of Cross-Attention ConvNeXt and Vision Transformers for Automated Classification of Sport Types`
+These methods provide qualitative plausibility evidence for model predictions. 
